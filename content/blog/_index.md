@@ -1,5 +1,5 @@
 ---
-title: Distills
+title: Reflections
 description: A collection of distilled thoughts and reflections.
 author: rohan
 ---

@@ -5,7 +5,7 @@ paginate = 20
 rssLimit = 20
 
 [params]
-subtitle = "Reflections and distilled insights"
+subtitle = "Distilled thoughts and reflections"
 thumbnail = "thumb.jpg"
 
 [taxonomies]
@@ -20,8 +20,8 @@ thumbnail = "thumb.jpg"
       weight = 1
 
    [[menu.header]]
-      identifier = "distills"
-      name = "Distills"
+      identifier = "reflections"
+      name = "Reflections"
       url = "/blog"
       weight = 2
 
