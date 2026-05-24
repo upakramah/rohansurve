@@ -26,4 +26,4 @@ More such distilled thoughts and anecdotes can be found here [**distills**](/blo
 ------
 
 
-Connect with me on <a href="http://linkedin.com/in/rohansurves" target="_blank" rel="noopener">LinkedIn</a> or <a href="mailto:inbox.rohansurve@gmail.com">Send Email</a>.
+Connect with me on <a href="https://linkedin.com/in/rohansurves" target="_blank" rel="noopener">LinkedIn</a> or <a href="mailto:inbox.rohansurve@gmail.com">Send Email</a>.
