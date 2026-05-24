@@ -12,7 +12,7 @@ In my early 20s, my manager entrusted me with a short but unusual stint. I was a
 
 Six months later, I received a call from the client informing me that no progress was made. It turns out that this team of domain experts were sceptical that any software could automate their work. Since my POC was the only progress they had made, the client coerced this team into reporting to me for months to automate the rest of the modules. Not just this, they unwillingly had to fly from another city, away from their families, and come to learn from me. To be honest, I had no clue what I could teach these folks who were twice my age. Even bigger problem was that they didn't want to learn. Back in the day, people did not believe in test automation.
 
-So I started with baby steps to build rapport with them as I genuinely empathised with their situation. While doing so, I would casually mention a thing or two about Test Automation Basics. But I did not try to enforce any work.  A few days later, most likely out of pity for me, some of them started practising the test automation basics that I had taught. Later they tried automating the client's application. They could now smell success in this activity. Their eagerness to learn and automate at this stage was pretty evident. Out of FOMO, other team members also joined. Together, we were able to automate testing of four more modules in just one work week.
+So I started with baby steps to build rapport with them as I genuinely empathised with their situation. While doing so, I would casually mention a thing or two about test automation. But I did not try to enforce any work.  A few days later, most likely out of pity for me, some of them started practising the test automation practices that I had taught. Later they tried automating the client's application. They could now smell success in this activity. Their eagerness to learn and automate at this stage was pretty evident. Out of FOMO, other team members also joined. Together, we were able to automate testing of four more modules in just one work week.
 
 Zero in six months changed to four in a week. I felt pretty proud of myself. With glee, I went to inform my manager. My manager looked at me and said, "So the total now is 5, still 15 more to go. That's just 25% work done." Dejected and a bit confused, while walking away I realised a very important lesson: As a manager, you should never be content with your team's efforts.
 
@@ -26,4 +26,4 @@ More such distilled thoughts and anecdotes can be found here [**distills**](/blo
 ------
 
 
-Connect with me on <a href="https://linkedin.com/in/rohansurves" target="_blank" rel="noopener">LinkedIn</a> or <a href="mailto:inbox.rohansurve@gmail.com">Send Email</a>.
+Connect with me on <a href="https://linkedin.com/in/rohansurves" target="_blank" rel="noopener">LinkedIn</a> or <a href="mailto:inbox.rohansurve@gmail.com">send an email</a>.
