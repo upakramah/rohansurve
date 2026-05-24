@@ -1,0 +1,29 @@
+baseURL = "https://rohansurve.com"
+languageCode = "en-us"
+title = "Rohan Surve's personal homepage"
+paginate = 20
+rssLimit = 20
+
+[params]
+subtitle = "Reflections and distilled insights"
+thumbnail = "thumb.jpg"
+
+[taxonomies]
+   tag = "tags"
+   author = "authors"
+
+[menu]
+   [[menu.header]]
+      identifier = "home"
+      name = "Home"
+      url = "/"
+      weight = 1
+
+   [[menu.header]]
+      identifier = "distills"
+      name = "Distills"
+      url = "/blog"
+      weight = 2
+
+[markup.goldmark.renderer]
+  unsafe = true
