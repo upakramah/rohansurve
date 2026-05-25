@@ -9,7 +9,7 @@ description: Collection of my own writings.
 
 ---
 
-Long back, waking up at midnight would trigger writing a short story. Or sometimes, if I sit idle, words would just flow. I could even write a ballard or a sonnet. Not anymore!
+Long back, waking up at midnight would trigger writing a short story. Or sometimes, if I sit idle, words would just flow. I could even write a ballad or a sonnet. Not anymore!
 
 Below are fragments that I could salvage.
 
