@@ -2,7 +2,7 @@
 type: "page"
 ---
 
-I am Rohan. I head the product team at <a href="https://sahipro.com" target="_blank" rel="noopener">Sahi Pro</a>.
+I am Rohan Surve. I head the product team at <a href="https://sahipro.com" target="_blank" rel="noopener">Sahi Pro</a>.
 
 I find solace at work in solving problems as well as enabling people. Besides tech, I like contemplating about sustainable diet and exercise. I am also fairly intrigued by contemporary fiction, macro-economics and strategy management.
 

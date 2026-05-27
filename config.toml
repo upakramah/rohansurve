@@ -1,6 +1,6 @@
 baseURL = "https://rohansurve.com"
 languageCode = "en-us"
-title = "Rohan Surve's personal homepage"
+title = "Rohan Surve's personal page"
 paginate = 20
 rssLimit = 20
 
