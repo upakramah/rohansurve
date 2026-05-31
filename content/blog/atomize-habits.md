@@ -27,13 +27,13 @@ Another trick to form habits is to opt for a short commitment instead of a long 
 
 
 **How to break habits that you do not wish to compound?**
-<br/>One approach is to introduce friction by making the habit harder to start. For example, I do not have any apps on my phone that are binge worthy. This implies, to use such apps, I need to install them first.
+<br/>One approach is to introduce friction by making the habit harder to start. For example, I do not have any apps on my phone that are binge-worthy. This implies, to use such apps, I need to install them first.
 
 **How did I implement these learnings?**
 
-+ I desired to read regularly. I already had a cue, craving and response. My reward was the joy of learning. Gradually, the reward did not feel enough. It is worth noting that a habit can sustain only if the reward is truly satisfying. So, I created this platform to read, synthesize, distill, reflect as well as employ learnings practically. To ensure a habit thrives, the effort to reward ratio must always be in check.
++ I desired to read regularly. I already had a cue, craving and response. My reward was the joy of learning. Gradually, the reward did not feel enough. It is worth noting that a habit can sustain only if the reward is truly satisfying. So, I created this platform. Here, I can synthesize, distill, reflect and elaborate how I implemented the learnings. This makes the reading fun and memorable for me. Bottom line, to ensure a habit thrives, the effort to reward ratio must always be in check.
 
-+ As author atomized habits, I felt the need to atomize forming interests. Over the years, we develop prejudices about activities that we spend time in. In layman's terms, we stay around activities that we find interesting while skip the ones we don't. This led me to conclude that an interest is an amalgamation of familiarity and output. The more you grow familiarity with a topic, the more you find comfort in synthesizing it to generate an output. Once you can get output, that activity or topic is interesting for you. This helped me coerce myself into activities that never amazed me earlier.
++ As the author atomized habits, I felt the need to atomize forming interests. Over the years, we develop prejudices about activities that we spend time in. In layman's terms, we stay around activities that we find interesting while skip the ones we don't. This led me to conclude that an interest is an amalgamation of familiarity and output. The more you grow familiarity with a topic, the more you find comfort in synthesizing it to generate an output. Once you can get output, that activity or topic is interesting for you. This helped me nudge myself towards activities that never amazed me earlier.
 
 
 **Standout quote from Atomic Habits**
