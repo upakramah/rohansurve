@@ -3,7 +3,6 @@ date: '2024-09-02'
 title: Atomize habits
 tags: [self-improvement]
 author: rohan
-link:
 post_type:
 description: Reflections from book "Atomic Habits" by James Clear
 
@@ -34,7 +33,7 @@ Another trick to form habits is to opt for a short commitment instead of a long 
 + I desired to read regularly. I already had a cue, craving and response. My reward was the joy of learning. Gradually, the reward did not feel enough. It is worth noting that a habit can sustain only if the reward is truly satisfying. So, I created this platform. Here, I can synthesize, distill, reflect and elaborate how I implemented the learnings. This makes the reading fun and memorable for me. Bottom line, to ensure a habit thrives, the effort to reward ratio must always be in check.
 
 + As the author atomized habits, I felt the need to atomize forming interests. Over the years, we develop prejudices about activities that we spend time in. In layman's terms, we stay around activities that we find interesting while skip the ones we don't. This led me to conclude that an interest is an amalgamation of familiarity and output. The more you grow familiarity with a topic, the more you find comfort in synthesizing it to generate an output. Once you can get output, that activity or topic is interesting for you. This helped me nudge myself towards activities that never amazed me earlier.
-
+<br>
 
 **Standout quote from Atomic Habits**
 >Every action you take is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your new identity.
