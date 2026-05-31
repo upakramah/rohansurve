@@ -21,7 +21,7 @@ Nah! Just kidding. There were two life lessons for me.
 2. Trust and mutual respect together create a domino effect. It started with my manager trusting a junior developer with managing the client's testing project.
 
 
-More such anecdotes and distilled thoughts can be found here [**reflections**](/blog).
+More such anecdotes and distilled thoughts can be found [here](/blog).
 
 ------
 
