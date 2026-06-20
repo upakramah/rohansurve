@@ -1,6 +1,6 @@
 ---
 date: '2026-06-20'
-title: Technical SME — Rohan Surve
+title: Seeking a technical SME role
 draft: false
 build:
   list: never
@@ -10,16 +10,6 @@ sitemap:
   disable: true
 author: rohan
 description: One-pager on Rohan Surve as a technical subject matter expert
-
----
-
-# Rohan Surve
-**Technical Subject Matter Expert**
-*(Software Product, Architecture & Automation)*
-
-**Email:** inbox.rohansurve@gmail.com
-**Phone:** +91 8879891415
-**Website:** https://rohansurve.com
 
 ---
 
@@ -75,3 +65,9 @@ description: One-pager on Rohan Surve as a technical subject matter expert
 - Hands-on guidance for portfolio companies stuck on technical architecture decisions
 - Helping technical founders translate vision into roadmaps (done this directly in a Founder's Office for 7+ years)
 - Diagnosing why release cycles are slow, support costs are high, or churn is technical in nature, and fixing it
+
+---
+### Connect
+**Email:** inbox.rohansurve@gmail.com
+<br/>
+**Phone:** +91 8879891415
