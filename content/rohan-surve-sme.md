@@ -2,6 +2,7 @@
 date: '2026-06-20'
 title: Seeking a technical SME role
 draft: false
+layout: "sme"
 build:
   list: never
   render: always
@@ -71,3 +72,5 @@ description: One-pager on Rohan Surve as a technical subject matter expert
 **Email:** inbox.rohansurve@gmail.com
 <br/>
 **Phone:** +91 8879891415
+<br/>
+**About:** https://rohansurve.com
