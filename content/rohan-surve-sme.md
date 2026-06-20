@@ -24,8 +24,8 @@ description: One-pager on Rohan Surve as a technical subject matter expert
 
 ## What I Bring
 
-- 13+ years architecting, building, and scaling technical products, from writing production code to single-handedly architecting enterprise automation tools used by Google, Ferrari, and Lenovo.
-- I have sat on both sides of the table: as the person building the product, and as the person in the Founder's Office deciding what gets built next.
+- 13+ years architecting, building, and scaling technical products, from writing production code to single-handedly architecting enterprise automation tools used by Google, Ferrari, and Lenovo
+- I have sat on both sides of the table: as the person building the product, and as the person in the Founder's Office deciding what gets built next
 - I evaluate technology the way an operator does: not just "is this technically sound," but "will this scale, will this team ship it, and is this defensible."
 
 ---
@@ -55,7 +55,7 @@ description: One-pager on Rohan Surve as a technical subject matter expert
 - Architecture review: scalability, technical debt, security posture
 - Validating AI/ML claims: is it real ML, a wrapper, or rules-based automation dressed up as AI
 - Codebase and engineering process health checks
-- Build vs. buy vs. partner assessments
+- Build vs buy vs partner assessments
 
 ### Product & Engineering Evaluation
 - Assessing product-market fit from a technical feasibility lens
