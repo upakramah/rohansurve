@@ -17,7 +17,7 @@ So I started with baby steps to build rapport with them as I genuinely empathise
 Zero in six months changed to four in a week. I felt pretty proud of myself. With glee, I went to inform my manager. My manager looked at me and said, "So the total now is 5, still 15 more to go. That's just 25% work done." Dejected and a bit confused, while walking away I realised a very important lesson: As a manager, you should never be content with your team's efforts.
 
 Nah! Just kidding. There were two life lessons for me.
-1. Motivating and enabling people is more rewarding than the outcome itself.
+1. Motivating and enabling people is more satisfying than the outcome itself.
 2. Trust and mutual respect together create a domino effect. It started with my manager trusting a junior developer with managing the client's testing project.
 
 
